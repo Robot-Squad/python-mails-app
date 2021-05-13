@@ -1,3 +1,7 @@
+# Written by: Robot Squad
+# NOTE:
+#   Before running this sketch go to your account settings and allow less secure apps to access mail.
+# Please subscribe to Robot Squad.
 import smtplib
 import ssl
 server_smtp = "smtp.gmail.com"
